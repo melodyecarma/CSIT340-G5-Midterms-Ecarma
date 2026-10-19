@@ -1,4 +1,13 @@
 import { useState } from "react";
+import "src/components/Intro.jsx";
+import "src/components/FeatureCard.jsx";
+import  "src/components/Footer.jsx";
+import  "src/components/Navbar.jsx";
+import  "src/components/Stats.jsx";
+import  "src/components/StatCard.jsx";
+import  "src/components/Hero.jsx";
+
+
 
 function App() {
   const [stars, setStars] = useState(0);
