@@ -6,7 +6,8 @@ import  "./components/Navbar.jsx";
 import  "./components/Stats.jsx";
 import  "./components/StatCard.jsx";
 import  "./components/Hero.jsx";
-
+import  "./components/Feature.jsx";
+import  "./components/Contribute.jsx";
 
 
 function App() {
