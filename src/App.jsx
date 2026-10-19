@@ -1,11 +1,11 @@
 import { useState } from "react";
-import "src/components/Intro.jsx";
-import "src/components/FeatureCard.jsx";
-import  "src/components/Footer.jsx";
-import  "src/components/Navbar.jsx";
-import  "src/components/Stats.jsx";
-import  "src/components/StatCard.jsx";
-import  "src/components/Hero.jsx";
+import "./components/Intro.jsx";
+import "./components/FeatureCard.jsx";
+import  "./components/Footer.jsx";
+import  "./components/Navbar.jsx";
+import  "./components/Stats.jsx";
+import  "./components/StatCard.jsx";
+import  "./components/Hero.jsx";
 
 
 
